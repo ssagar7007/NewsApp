@@ -7,6 +7,13 @@ npm install react
 
 this command will install all the dependencies to the folder.
 
+
+
+Get Your api key from link     https://newsapi.org/
+paste the API key in .env.local file 
+
+
+
 Now run the command ---
 
 npm start 
