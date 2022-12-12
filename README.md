@@ -20,6 +20,7 @@ npm start
 
 to open the application in browser.
 
+Video Preview Link:-  https://drive.google.com/file/d/1Nr3FHPUkC-P-6s50r9hUjwbnVPPZaHnv/view?usp=share_link
 
-Video link:-   https://www.loom.com/share/61b85d4a9aec48f79a95a97d18484a43
+
 
